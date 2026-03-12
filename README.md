@@ -11,4 +11,5 @@ pushed to a local registry deployed on the cluster.
 Consult the [documentation](https://github.com/konflux-ci/konflux-ci?tab=readme-ov-file#konflux-ci) for using external image registries.
 
 - Let's test konflux on arm64
+- another test for a new integration test (punny jajaja)
 
