@@ -12,4 +12,5 @@ Consult the [documentation](https://github.com/konflux-ci/konflux-ci?tab=readme-
 
 - Let's test konflux on arm64
 - another test for a new integration test (punny jajaja)
+- now lets see if logs get picked up
 
